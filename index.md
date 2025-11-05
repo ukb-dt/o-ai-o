@@ -69,5 +69,4 @@ $$
 \text{Ingress} \to \text{CNS} \to \text{Concourses} \to \text{PNS} \to \text{Egress}
 $$
 
-**Ingress → Integration → Transmission → Differentiation → Egress**
  
